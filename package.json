@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "analyze": "cem analyze --litelement --globs 'packages/**/*.js'"
+  },
+  "customElements": "custom-elements.json"
+}
